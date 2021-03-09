@@ -1,0 +1,10 @@
+.submit-container {
+  width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.error {
+  order: 1;
+  margin-left: 10px;
+}
